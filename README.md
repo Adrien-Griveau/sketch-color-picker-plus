@@ -11,6 +11,12 @@ We've been always frustrated by inability to use color picker that is available 
 
 [Download](https://github.com/heysketch/sketch-color-picker-plus/archive/master.zip) and extract the contents of this repository. Then double-click the `Color Picker Plus.sketchplugin` bundle to install the plugin.
 
+## Change Log
+
+##### v1.0: October 21, 2015
+
+- Initial release
+
 ## Usage
 
 Select one or more layers and hit **⌃⇧C** shortcut and pick a color using color picker. Plugin will set picked color for first enabled border in borders list for each selected shape or text layer:
@@ -26,7 +32,6 @@ If you discover any issue or have any suggestions, please [open an issue](https:
 Aby Nimbalkar ([Twitter](http://twitter.com/abynim) | [GitHub](https://github.com/abynim))
 
 Andrey Shakhmin ([Twitter](http://twitter.com/turbobabr) | [GitHub](https://github.com/turbobabr))
-
 
 ## License
 
