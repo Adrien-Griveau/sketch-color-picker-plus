@@ -1,7 +1,9 @@
 ![Sketch Color Picker Plus Plugin](https://raw.githubusercontent.com/heysketch/sketch-color-picker-plus/gh-pages/images/sketch-color-picker-plus-plugin-header.png)
 ===============
 
-Sketch Color Picker Plus is a small plugin that allows to fill some gaps in [Sketch](http://sketchapp.com/) features. We've been always frustrated by inability to use color picker that is available for fill color picking to use it for picking border and other style elements color. This plugin is here to solve this long standing problem! :)
+Sketch Color Picker Plus is a small plugin that allows to fill some gaps in [Sketch](http://sketchapp.com/) features.
+
+We've been always frustrated by inability to use color picker that is available for fill color picking to use it for picking border and other style elements color. This plugin is here to solve this long standing problem! :)
 
 > Currently only border picker is supported, but we plan to extend the functionality to support other style parts. Follow us on twitter ([@heysketch](http://twitter.com/heysketch)) to stay tuned.
 
