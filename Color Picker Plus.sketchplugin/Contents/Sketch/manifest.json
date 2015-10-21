@@ -1,0 +1,20 @@
+{
+  "name": "Color Picker Plus",
+  "description": "Allows to pick border color for selected layers using standard Sketch color picker",
+  "author": "Aby Nimbalkar & Andrey Shakhmin",  
+  "homepage": "https://github.com/heysketch/sketch-color-picker-plus",
+  "version": "1.0.0",
+  "identifier": "com.heysketch.plugins.color-picker-plus",
+  "compatibleVersion": "3.3",
+  "bundleVersion": 1,  
+  "commands": [    
+    {
+      "name": "Pick Border Color",
+      "identifier": "pick-border-color",
+      "script": "plugin.js",
+      "handler": "onRun",
+      "shortcut": "ctrl shift c"
+    },
+
+  ]
+}

@@ -9,7 +9,7 @@ We've been always frustrated by inability to use color picker that is available 
 
 ## Installation
 
-Download and extract the contents of this repository. Then double-click the `Color Picker Plus.sketchplugin` bundle to install the plugin.
+[Download](https://github.com/heysketch/sketch-color-picker-plus/archive/master.zip) and extract the contents of this repository. Then double-click the `Color Picker Plus.sketchplugin` bundle to install the plugin.
 
 ## Usage
 
