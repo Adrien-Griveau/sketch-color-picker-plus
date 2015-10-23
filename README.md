@@ -15,7 +15,7 @@ We've been always frustrated by inability to use color picker that is available 
 
 ##### v1.1: October 23, 2015
 
-- [BUGFIX]: Removed noise log statements from produced by external framework
+- [BUGFIX]: Removed noisy log statements from produced by external framework
 - [ENHANCEMENT]: Automatically enable border when color is picked
 
 ##### v1.0: October 21, 2015
