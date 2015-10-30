@@ -13,6 +13,10 @@ We've been always frustrated by inability to use color picker that is available 
 
 ## Change Log
 
+##### v1.2: October 30, 2015
+
+- [BUGFIX]: Plugin didn't work on OSX 10.10
+
 ##### v1.1: October 23, 2015
 
 - [BUGFIX]: Removed noisy log statements from produced by external framework
